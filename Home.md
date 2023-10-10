@@ -16,7 +16,7 @@ on conventional computing systems (e.g. GPUs, multiple CPUs).
 
 ### Linux Servers
 
-If you have contacted the administrator to open a user account, you should have access to some of our servers from within the College network. If you are familiar with the Linux command line, you can simply execute the following commands using the Terminal or Windows PowerShell.
+If you have contacted the administrator to open a user account, you should have access to some of our servers from within the College network. If you are familiar with the Linux command line, you can simply execute the following commands to access the machines using the Terminal or Windows PowerShell.
 
 ```
 ssh sggpu1.dept.ic.ac.uk
