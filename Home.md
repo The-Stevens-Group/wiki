@@ -21,6 +21,7 @@ If you have contacted the administrator to open a user account, you should have 
 ```
 ssh sggpu1.dept.ic.ac.uk
 ```
+### x2Go
 
 However, we recommend utilizing X2Go because it creates a virtual local display on the remote server, enabling your software to run remotely. This approach ensures reliability, as it allows all operations to be performed locally on the build machine.
 
