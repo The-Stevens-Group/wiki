@@ -31,13 +31,13 @@ The package is available on Windows, Linux and Mac.
 
 After the installation, you have to create a local profile with the following steps:
 1. Click `Session` -> `New session`.
-2. Put the hostname or IP address of the remote server that you want to connect to, such as `sggpu1.dept.ic.ac.uk` or 172.22.42.169 as `Host`.
+2. Put the hostname or IP address of the remote server that you want to connect to, such as `sggpu1.dept.ic.ac.uk` or `172.22.42.169` as `Host`.
 3. Put your userID as `Login`.
 4. Select `MATE` as `Session type`.
 5. Click `OK`.
 
 Then you can connect to the remote machine by doubling the profile. It should prompt for your SG cluster password.
 
-If you are connecting for the first time, it will prompt "The server is unknown. Do you trust the key?" Please press 'Yes'
+If you are connecting for the first time, it will prompt `The server is unknown. Do you trust the key?` Please press `Yes`
 
 Note that this connection only works if you are in the College network.
