@@ -43,6 +43,6 @@ If you are connecting for the first time, it will prompt `The server is unknown.
 Note that this connection only works if you are in the College network.
 
 ## Disconnecting
-You can easily exit by clicking the 'X' button located at the top right. Your ongoing sessions will be preserved for your next login through X2Go.
+You can easily exit by clicking the `X` button located at the top right. Your ongoing sessions will be preserved for your next login through X2Go.
 
-
+If you don't want to keep your current session, you can `log out` or `shut down` by clicking the top right gear button.
