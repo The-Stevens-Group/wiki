@@ -6,6 +6,7 @@ Welcome to the SG User Wiki. This a great place to start for accessing computing
 The SG Cluster comprises a range of high-performance and cost-effective server solutions, 
 encompassing both conventional CPU-based PC/server machines. Detailed information about the 
 software and hardware components can be found on the dedicated [[Software]] and [[Hardware]] pages.
+
 These machines feature fast local storage capabilities, while the process of storing files on OneDrive 
 necessitates the use of web browsers such as Firefox or Chrome.
 
