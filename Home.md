@@ -37,7 +37,7 @@ After the installation, you have to create a local profile with the following st
 4. Select `MATE` as `Session type`.
 5. Click `OK`.
 
-You can connect to the remote machine by doubling the profile. It should prompt for your SG cluster password.
+You can connect to the remote machine by double clicking the profile. It should prompt for your SG cluster password.
 
 If you are connecting for the first time, it will prompt `The server is unknown. Do you trust the key?` Please press `Yes` to continue.
 
