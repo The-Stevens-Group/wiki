@@ -36,8 +36,13 @@ After the installation, you have to create a local profile with the following st
 4. Select `MATE` as `Session type`.
 5. Click `OK`.
 
-Then you can connect to the remote machine by doubling the profile. It should prompt for your SG cluster password.
+You can connect to the remote machine by doubling the profile. It should prompt for your SG cluster password.
 
-If you are connecting for the first time, it will prompt `The server is unknown. Do you trust the key?` Please press `Yes`
+If you are connecting for the first time, it will prompt `The server is unknown. Do you trust the key?` Please press `Yes` to continue.
 
 Note that this connection only works if you are in the College network.
+
+## Disconnecting
+You can easily exit by clicking the 'X' button located at the top right. Your ongoing sessions will be preserved for your next login through X2Go.
+
+
