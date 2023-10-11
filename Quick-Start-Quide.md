@@ -2,7 +2,7 @@
 
 The SG Cluster comprises a few high-performance and low-cost server solutions, 
 encompassing both conventional CPU-based PC/server and machines with GPUs. Detailed information about the 
-hardware components can be found on the dedicated [[Hardware]] pages.
+hardware components can be found on the dedicated [[Hardware Resources]] pages.
 
 These machines are equipped with fast local storage capabilities. Storing files on OneDrive, however, requires utilizing web browsers such as Firefox or Chrome.
 
