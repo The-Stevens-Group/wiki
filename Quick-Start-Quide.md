@@ -1,6 +1,6 @@
-## SG Clusters at Imperial
+## SG Linux Clusters at Imperial
 
-The SG Cluster comprises a few high-performance and low-cost server solutions, 
+The SG Linux Cluster comprises a few high-performance and low-cost server solutions, 
 encompassing both conventional CPU-based PC/server and machines with GPUs. Detailed information about the 
 hardware components can be found on the dedicated [[Hardware Resources]] page.
 
@@ -10,9 +10,7 @@ The SG Cluster is dedicated to hosting web applications and executing resource-i
 applications (e.g. ML training jobs), or applications demanding dedicated hardware resources unavailable 
 on conventional computing systems (e.g. GPUs, multiple CPUs).
 
-## Connecting
-
-### Linux Servers
+## Connecting to Linux Servers
 
 If you have contacted the administrator to open a user account, you should have access to some of our servers from within the College network. If you are familiar with the Linux command line, you can simply execute the following commands to access the machines using the Terminal or Windows PowerShell.
 
