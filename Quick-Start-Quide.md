@@ -39,10 +39,16 @@ You can connect to the remote machine by double-clicking the profile. It should 
 
 If you are connecting for the first time, it will prompt `The server is unknown. Do you trust the key?` Please press `Yes` to continue.
 
-Note that this connection only works if you are in the College network.
+Note that this connection only works if you are in the College network, or [Unified Access](https://www.imperial.ac.uk/admin-services/ict/self-service/connect-communicate/remote-access/unified-access/) to the College 
 
 ## Change your password
 If your account has just been created we advise that you change the default password. You can do so by following these instructions:
+
+1. Right-click on the X2Go Desktop, and select `Open in Terminal`.
+2. When the command line prompt shows up, type `passwd` and press Enter.
+3. Enter your current password.
+4. Enter the new user password.
+5. Retype the new password a second time. You should then receive the message that the password has successfully been updated.
 
 ## Disconnecting
 You can easily exit by clicking the `X` button located at the top right. Your ongoing sessions will be preserved for your next login through X2Go.
