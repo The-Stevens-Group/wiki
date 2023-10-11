@@ -41,6 +41,9 @@ If you are connecting for the first time, it will prompt `The server is unknown.
 
 Note that this connection only works if you are in the College network.
 
+## Change your password
+If your account has just been created we advise that you change the default password. You can do so by following these instructions:
+
 ## Disconnecting
 You can easily exit by clicking the `X` button located at the top right. Your ongoing sessions will be preserved for your next login through X2Go.
 
