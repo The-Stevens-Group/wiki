@@ -15,7 +15,7 @@ on conventional computing systems (e.g. GPUs, multiple CPUs).
 If you have contacted the administrator to open a user account, you should have access to some of our servers from within the College network. If you are familiar with the Linux command line, you can simply execute the following commands to access the machines using the Terminal or Windows PowerShell.
 
 ```
-ssh sggpu1.dept.ic.ac.uk
+ssh username@sggpu1.dept.ic.ac.uk
 ```
 ### x2Go
 
@@ -29,7 +29,7 @@ The package is available on Windows, Linux and Mac.
 After the installation, you have to create a local profile with the following steps:
 1. Click `Session` -> `New session`.
 2. Put the hostname or IP address of the remote server that you want to connect to, such as `sggpu1.dept.ic.ac.uk` or `172.22.42.169` as `Host`.
-3. Put your userID as `Login`.
+3. Put your username as `Login`.
 4. Select `MATE` as `Session type`.
 5. Click `OK`.
 
