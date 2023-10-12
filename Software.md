@@ -5,7 +5,7 @@ All nodes run 64-bit operating systems:
 | sgcad1.dept.ic.ac.uk | Ubuntu 20.04  | Nginx |
 | sggpu1.dept.ic.ac.uk  | Ubuntu 20.04 | CUDA 12.2 |
 
-The following software is installed in /opt on sggpu1:
+The following software is installed in `/opt` on sggpu1:
 
 1. MATLAB 2020a
 2. [Opening and Closing Surfaces](https://github.com/sgsellan/opening-and-closing-surfaces#opening-and-closing-surfaces)
