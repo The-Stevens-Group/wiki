@@ -28,7 +28,7 @@ The package is available on Windows, Linux and Mac.
 
 After the installation, you have to create a local profile with the following steps:
 1. Click `Session` -> `New session`.
-2. Put the hostname or IP address of the remote server that you want to connect to, such as `sggpu1.dept.ic.ac.uk` or `172.22.42.169` as `Host`.
+2. Put the hostname or IP address of the remote server that you want to connect to, such as `sggpu1.dept.ic.ac.uk` or `155.198.96.47` as `Host`.
 3. Put your username as `Login`.
 4. Select `MATE` as `Session type`.
 5. Click `OK`.
