@@ -15,7 +15,7 @@ The following software is installed in `/opt` on sggpu1:
 1. Right-click on the X2Go Desktop, and select `Open in Terminal`.
 2. When the command line prompt shows up, type or copy the following:
 ```
-cd
+cd;
 /opt/launch_oc.sh
 ```
 Matlab 2020a should be launched with `opening-and-closing-surfaces` libraries available to use
@@ -24,6 +24,6 @@ Matlab 2020a should be launched with `opening-and-closing-surfaces` libraries av
 1. Right-click on the X2Go Desktop, and select `Open in Terminal`.
 2. When the command line prompt shows up, type or copy the following:
 ```
-cd
+cd;
 /opt/MATLAB/R2020a/bin/matlab
 ```
