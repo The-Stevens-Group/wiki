@@ -32,7 +32,8 @@ cd;
 1. Right-click on the X2Go Desktop, and select `Open in Terminal`.
 2. When the command line prompt shows up, type or copy the following:
 ```
-cd OligoMiner/;
-conda activate probeMining
+cd /home/ingavdb/OligoMiner/;
+conda activate probeMining;
+source /home/ingavdb/venv_nupack/bin/activate;
 ```
 Visit https://github.com/beliveau-lab/OligoMiner and go to the section on **Running OligoMiner locally**
