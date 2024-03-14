@@ -28,12 +28,26 @@ cd;
 /opt/MATLAB/R2020a/bin/matlab
 ```
 ## Local Software
-### OligoMiner (Inga)
+### OligoMiner and Nupack (Inga)
 1. Right-click on the X2Go Desktop, and select `Open in Terminal`.
-2. When the command line prompt shows up, type or copy the following:
+2. When the command line prompt shows up, type or copy the following to launch the software that you need:
+
+#### OligoMiner
 ```
 cd /home/ingavdb/OligoMiner/;
 conda activate probeMining;
-source /home/ingavdb/venv_nupack/bin/activate;
 ```
 Visit https://github.com/beliveau-lab/OligoMiner and go to the section on **Running OligoMiner locally**
+
+#### Nupack
+
+To run Nupack 4.0.1.8 properly, you have to deactivate the conda environment so that you can use the default Python3 that comes with Ubuntu.
+
+```
+conda deactivate;
+cd /home/ingavdb/workspace/;
+source /home/ingavdb/venv_nupack/bin/activate;
+jupyter lab
+```
+
+It should start Jupyter Notebook in Firefox. Currently, all your notebooks are stored in the directory `/home/ingavdb/workspace/`.
