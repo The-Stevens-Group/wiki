@@ -10,9 +10,12 @@ The SG Cluster is dedicated to hosting web applications and executing resource-i
 applications (e.g. ML training jobs), or applications demanding dedicated hardware resources unavailable 
 on conventional computing systems (e.g. GPUs, multiple CPUs).
 
+## VPN
+If the server is hosted at Imperial College, access requires [Unified Access](https://www.imperial.ac.uk/admin-services/ict/self-service/connect-communicate/remote-access/unified-access/) to the institution's network. Conversely, if the server is located at Oxford University, [MSD VPN access](https://www.medsci.ox.ac.uk/for-staff/resources/information-technology/document-and-file-storage/vpn) is necessary for connectivity.
+
 ## Connecting to Linux Servers
 
-Once you have contacted the administrator to open a user account and received confirmation, you should have access to some of our servers from within the College network. If you are familiar with the Linux command line, you can simply execute the following commands to access the machines using the Terminal or Windows PowerShell.
+Once you have contacted the administrator to open a user account and received confirmation, you should have access to some of our servers from within the University network. If you are familiar with the Linux command line, you can simply execute the following commands to access the machines using the Terminal or Windows PowerShell.
 
 ```
 ssh username@sggpu1.dept.ic.ac.uk
@@ -21,10 +24,11 @@ ssh username@sggpu1.dept.ic.ac.uk
 
 However, we recommend utilizing X2Go because it creates a virtual local display on the remote server, enabling your software to run remotely. This approach ensures reliability, as it allows all operations to be performed locally on the build machine.
 
+
 You need to first download X2Go client on your local machine:
 https://wiki.x2go.org
 
-The package is available on Windows, Linux and Mac.
+X2Go client is available on Windows, Linux and Mac.
 
 After the installation, you have to create a local profile with the following steps:
 1. Click `Session` -> `New session`.
@@ -36,8 +40,6 @@ After the installation, you have to create a local profile with the following st
 You can connect to the remote machine by double-clicking the profile. It should prompt for your SG cluster password.
 
 If you are connecting for the first time, it will prompt `The server is unknown. Do you trust the key?` Please press `Yes` to continue.
-
-Note that this connection only works if you are in the College network, or [Unified Access](https://www.imperial.ac.uk/admin-services/ict/self-service/connect-communicate/remote-access/unified-access/) to the College 
 
 ## Change your password
 If your account has just been created we advise that you change the default password. You can do so by following these instructions:
