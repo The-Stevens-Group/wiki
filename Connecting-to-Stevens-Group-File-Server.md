@@ -1,10 +1,10 @@
-This guide explains how to back up your research data by accessing our file server `smb://qnap-mms001.dpag.ox.ac.uk`, from within an X2Go virtual desktop.
+This guide explains how to back up your research data by accessing our file server `smb://qnap-mms001.dpag.ox.ac.uk`, from within an x2go virtual desktop.
 
-**Important: Because X2Go provides a virtual desktop running on a remote server, you cannot copy and paste files directly between your local PC and the server desktop.**
+**Important: Because x2go provides a virtual desktop running on a remote server, you cannot copy and paste files directly between your local PC and the server desktop.**
 
 ## 1. Open the file manager
 
-* In the X2Go virtual desktop, go to the top-left corner and click `Menu`→ `Systems Tools`→ `Caja`.
+* In the x2go virtual desktop, go to the top-left corner and click `Menu`→ `Systems Tools`→ `Caja`.
 
 ![image](https://github.com/user-attachments/assets/b5de3aa9-7fd4-45af-829e-4f1e901f21b2)
 
@@ -17,7 +17,7 @@ This guide explains how to back up your research data by accessing our file serv
 
 ![image](https://github.com/user-attachments/assets/d4102cb7-b874-4263-873c-435a391dc68b)
 
-## 3. Enter your MSD account details (not the Linux account used to log in to X2Go).
+## 3. Enter your MSD account details (not the Linux account used to log in to x2go).
 
 * A window will appear prompting you to enter the following information:
 
