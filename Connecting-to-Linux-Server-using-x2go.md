@@ -51,7 +51,7 @@ Full instruction can be found [here](https://www.medsci.ox.ac.uk/for-staff/resou
 
 * If you see the following, that means you are connected! 
 
-![image](https://github.com/user-attachments/assets/9e4328ae-24a3-4f7f-b4d1-8591ce780d31)
+![image](https://github.com/user-attachments/assets/21882c46-e7a4-4d07-81ae-bb896e745bb3)
 
 
 ## 6. Disconnecting (IMPORTANT!)
