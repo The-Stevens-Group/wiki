@@ -1,4 +1,4 @@
-Welcome to the SG User Wiki. This a great place to start for accessing Linux-based computing machines.
+Welcome to the Stevens Group User Wiki. This a great place to start for accessing Linux-based computing machines.
 
 Please read these pages, before using our systems, to find out about:
 
