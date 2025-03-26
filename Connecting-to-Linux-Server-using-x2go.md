@@ -35,9 +35,27 @@ Full instruction can be found [here](https://www.medsci.ox.ac.uk/for-staff/resou
   * **SSH Port**: Set as 22.
   * **Session Type**: Select `MATE`
 
-![image](https://github.com/user-attachments/assets/3d9dc808-8370-4237-8c45-73f2d2826f66)
+![image](https://github.com/user-attachments/assets/f48f9b28-bc4b-4bc8-8687-4f90950dca0d)
 
 
+* Connect to the Server:
+  * Click on your saved session.
+  * Enter your Linux account password when prompted.
+  * Confirm SSH keys or host authenticity if prompted.
+
+![image](https://github.com/user-attachments/assets/82fb0331-1231-466f-8bfc-76949c79ad0b)
+![image](https://github.com/user-attachments/assets/b24aa55f-789a-412c-9ba7-9ac93272b24b)
 
 
+## 5. Verify Connections
+
+* If you see the following, that means you are connected! 
+
+![image](https://github.com/user-attachments/assets/4bc4cd47-9499-4c32-970c-41733ea7c10a)
+
+
+## 6. Disconnecting (IMPORTANT!)
+You can exit by clicking the X button located at the top right. Your ongoing sessions will be preserved for your next login through X2Go.
+
+DON'T press `log out` or `shut down` as a bug in the Linux system will prevent your session from closing properly.
 
