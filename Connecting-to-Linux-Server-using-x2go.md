@@ -1,4 +1,8 @@
-You're here because you have an application that only runs on Linux. No problem—using x2go with Linux has several advantages over Windows-based remote desktops. It's efficient, and most importantly, it lets multiple users connect at the same time, so you don't have to schedule or book a timeslot.
+You're here because you have an application that only runs on Linux. 
+
+No problem!
+
+Using x2go with Linux has several advantages over Windows-based remote desktops. It's efficient, and most importantly, it lets multiple users connect at the same time, so you don't have to schedule or book a timeslot.
 
 ## 1. Request a Linux Account
 
@@ -22,17 +26,17 @@ Full instruction can be found [here](https://www.medsci.ox.ac.uk/for-staff/resou
 ## 4. Configure and Connect via x2go
 
 * Launch the x2go client.
-* Click on "Session" → "New Session".
+* Click on `Session` → `New Session`.
 
 ![image](https://github.com/user-attachments/assets/1c5418d9-3854-4b66-bac6-46a6dcc0fd63)
 
 
 * Enter the following information:
-  * **Session name**: Choose any recognizable name (e.g., "Server").
-  * **Host**: Enter the server hostname or IP address (e.g., "bathspa.dpag.ox.ac.uk").
+  * **Session name**: Choose any recognizable name (e.g., `Server`).
+  * **Host**: Enter the server hostname or IP address (e.g., `bathspa.dpag.ox.ac.uk` You can see the list of machines available by going [here](https://github.com/The-Stevens-Group/wiki/wiki/Hardware-Resources)).
   * **Login**: Your Linux account username provided by the Stevens Group admin, which should be the same as your MSD account name.
   * **Password**: The password that you received in your Linux account email.
-  * **SSH Port**: Set as 22.
+  * **SSH Port**: Set as `22`.
   * **Session Type**: Select `MATE`
 
 ![image](https://github.com/user-attachments/assets/f48f9b28-bc4b-4bc8-8687-4f90950dca0d)
@@ -49,7 +53,7 @@ Full instruction can be found [here](https://www.medsci.ox.ac.uk/for-staff/resou
 
 ## 5. Verify Connections
 
-* If you see the following, that means you are connected! 
+* If you see the following **virtual desktop**, that means you are connected! 
 
 ![image](https://github.com/user-attachments/assets/21882c46-e7a4-4d07-81ae-bb896e745bb3)
 
