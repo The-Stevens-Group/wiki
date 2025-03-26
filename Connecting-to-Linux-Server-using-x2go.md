@@ -59,7 +59,7 @@ Full instruction can be found [here](https://www.medsci.ox.ac.uk/for-staff/resou
 
 
 ## 6. Disconnecting (IMPORTANT!)
-You can exit by clicking the X button located at the top right. Your ongoing sessions will be preserved for your next login through X2Go.
+You can exit by clicking the X button located at the top right. Your ongoing sessions will be preserved for your next login through x2go.
 
 DON'T press `log out` or `shut down` as a bug in the Linux system will prevent your session from closing properly.
 
