@@ -1,4 +1,4 @@
-This guide explains how to back up your research data by accessing our file server `smb://qnap-mms001.dpag.ox.ac.uk` from within an X2Go virtual desktop.
+This guide explains how to back up your research data by accessing our file server `smb://qnap-mms001.dpag.ox.ac.uk`, from within an X2Go virtual desktop.
 
 **Important: Because X2Go provides a virtual desktop running on a remote server, you cannot copy and paste files directly between your local PC and the server desktop.**
 
