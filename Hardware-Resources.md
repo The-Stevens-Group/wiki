@@ -7,7 +7,7 @@ The following hardware is available across our Linux servers:
 | pidgeotto.dpag.ox.ac.uk     | AMD EPYC 7282 @ 2.80Hz, 64GB DDR4, 512GB M.2 RAID1, 2TB SSD RAID1   | lin-mms006, B75-1, 1/F Server room, Sherrington | 2021 |
 | __CPU + GPU Nodes__ |||  
 | caterpie.dpag.ox.ac.uk    | Intel i7-5820K @ 3.30GHz, 64GB DDR4, 2TB SSD RAID1, GTX 980 Ti x 2  | lin-mms004, Desk 27, DHCB| 2016 |
-| charmandar.dpag.ox.ac.uk (require booking) | AMD Ryzen Threadripper 7970X @ 4.0GHz, 256GB DDR5, 4TB M.2, RTX5090  | lin-mms005, Desk 22, DHCB| 2025|
+| charmander.dpag.ox.ac.uk (require booking) | AMD Ryzen Threadripper 7970X @ 4.0GHz, 256GB DDR5, 4TB M.2, RTX5090  | lin-mms005, Desk 22, DHCB| 2025|
 | squirtle.dpag.ox.ac.uk (require booking) | AMD Ryzen Ryzen 9 9950X @ 4.3GHz, 128GB DDR5, 4TB M.2, RTX5080  | win-mms087, Desk 24, DHCB| 2025|
 
 
