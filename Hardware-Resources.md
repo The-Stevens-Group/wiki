@@ -9,4 +9,4 @@ The following hardware is available across our servers:
 | caterpie.dpag.ox.ac.uk    | Intel i7-5820K @ 3.30GHz, 64GB DDR4, 2TB SSD RAID1, GTX 980 Ti x 2  | Ubuntu 24.04 |  lin-mms004, Desk 27, DHCB| 2016 |
 | charmander.dpag.ox.ac.uk (require booking) | AMD Ryzen Threadripper 7970X @ 4.0GHz, 256GB DDR5, 4TB M.2, RTX5090  | Ubuntu 24.04 / Windows 11 |  lin-mms005, Desk 22, DHCB| 2025|
 | bulbasaur.dpag.ox.ac.uk (require booking) | AMD Ryzen Ryzen 9 9950X @ 4.3GHz, 128GB DDR5, 4TB M.2, RTX5080  | Windows 11 |  win-mms087, Desk 23, DHCB| 2025|
-| squirtle.dpag.ox.ac.uk (require booking) | AMD Ryzen Ryzen 9 9950X @ 4.3GHz, 128GB DDR5, 4TB M.2, RTX5080  | Ubuntu 24.04 / Windows 11 |  win-mms087, Desk 24, DHCB| 2025|
+| squirtle.dpag.ox.ac.uk (require booking to use Windows) | AMD Ryzen Ryzen 9 9950X @ 4.3GHz, 128GB DDR5, 4TB M.2, RTX5080  | Ubuntu 24.04 / Windows 11 |  win-mms087, Desk 24, DHCB| 2025|
