@@ -10,7 +10,7 @@ Dragonair is the group's shared GPU workstation. You log in and edit freely, and
 
 ## 1. Get access
 
-1. Email the Stevens Group IT admin to request a Linux account, and include your MSD account name. See [Request a Linux Account](Connecting-to-Linux-Server-using-x2go.md#1-request-a-linux-account).
+1. Email the Stevens Group IT admin to request a Linux account, and include your MSD account name. See [Request a Linux Account](connecting-with-x2go.md#1-request-a-linux-account).
 2. Ask them to add you to Slurm at the same time. You can log in without this, but you cannot submit jobs.
 3. Connect to the [MSD VPN](https://www.medsci.ox.ac.uk/for-staff/resources/information-technology/document-and-file-storage/vpn) whenever you are working from outside the MSD network.
 
@@ -24,7 +24,7 @@ Pick one. All three give you the same files and the same queue.
 ssh <your-username>@dragonair.dpag.ox.ac.uk
 ```
 
-On your first login, [change your password](How-to-Change-Your-Password.md) by running `passwd`.
+On your first login, [change your password](changing-your-password.md) by running `passwd`.
 
 To avoid typing your password each time, run these on your own computer:
 
@@ -57,7 +57,7 @@ The editor runs in your login session and does not use the queue. Start GPU work
 
 ### Remote desktop (x2go)
 
-Follow the [x2go guide](Connecting-to-Linux-Server-using-x2go.md) and use `dragonair.dpag.ox.ac.uk` as the host.
+Follow the [x2go guide](connecting-with-x2go.md) and use `dragonair.dpag.ox.ac.uk` as the host.
 
 ## 3. The one rule
 

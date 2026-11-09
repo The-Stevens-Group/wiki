@@ -1,3 +1,5 @@
+# Changing your password
+
 When you connect to the Linux server for the first time, you must change your password!
 
 ## 1. Open Terminal
@@ -13,7 +15,7 @@ When you connect to the Linux server for the first time, you must change your pa
 
 ![image](https://github.com/user-attachments/assets/b8b7cc4f-1a10-4953-9c1b-95cb9e4b0673)
 
-Step 3: Enter Current and New Passwords
+## 3. Enter Current and New Passwords
 
 * You will first be prompted to enter your current password.
 * After successful authentication, enter your new password.

@@ -1,3 +1,5 @@
+# Connecting to a Linux server with x2go
+
 You're here because you have an application that only runs on Linux. 
 
 No problem!
@@ -33,7 +35,7 @@ Full instruction can be found [here](https://www.medsci.ox.ac.uk/for-staff/resou
 
 * Enter the following information:
   * **Session name**: Choose any recognizable name (e.g., `Server`).
-  * **Host**: Enter the server hostname or IP address (e.g., `bathspa.dpag.ox.ac.uk` You can see the list of machines available by going [here](Hardware-Resources.md)).
+  * **Host**: Enter the server hostname or IP address (e.g., `dragonair.dpag.ox.ac.uk`). See the [list of machines](hardware.md).
   * **Login**: Your Linux account username provided by the Stevens Group admin, which should be the same as your MSD account name.
   * **Password**: The password that you received in your Linux account email.
   * **SSH Port**: Set as `22`.
@@ -62,4 +64,3 @@ Full instruction can be found [here](https://www.medsci.ox.ac.uk/for-staff/resou
 You can exit by clicking the X button located at the top right. Your ongoing sessions will be preserved for your next login through x2go.
 
 DON'T press `log out` or `shut down` as a bug in the Linux system will prevent your session from closing properly.
-

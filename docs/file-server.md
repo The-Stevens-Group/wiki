@@ -1,10 +1,12 @@
+# Connecting to the Stevens Group file server
+
 This guide explains how to back up your research data by accessing our file server `smb://qnap-mms001.dpag.ox.ac.uk`, from within an x2go virtual desktop.
 
 **Important: Because x2go provides a virtual desktop running on a remote server, you cannot copy and paste files directly between your local PC and the server desktop.**
 
 ## 1. Open the file manager
 
-* In the x2go virtual desktop, go to the top-left corner and click `Menu`→ `Systems Tools`→ `Caja`.
+* In the x2go virtual desktop, go to the top-left corner and click `Menu`→ `System Tools`→ `Caja`.
 
 ![image](https://github.com/user-attachments/assets/b5de3aa9-7fd4-45af-829e-4f1e901f21b2)
 
