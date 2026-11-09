@@ -2,9 +2,24 @@
 
 Guides for using the Stevens Group's Linux machines. New users should start with **Getting started**, then read **Using Dragonair and Slurm** before running GPU work.
 
+Connect with **SSH** for a terminal, which is also how VS Code connects, or with **x2go** for a full remote desktop.
+
 Click a page to open it, or expand it to jump to a section.
 
 ### Getting started
+
+<details>
+<summary><a href="docs/connecting-with-ssh.md">Connecting to a Linux server with SSH</a></summary>
+
+- [1. Before you start](docs/connecting-with-ssh.md#1-before-you-start)
+- [2. Connect](docs/connecting-with-ssh.md#2-connect)
+- [3. Log in without typing your password](docs/connecting-with-ssh.md#3-log-in-without-typing-your-password)
+- [4. Add a shortcut](docs/connecting-with-ssh.md#4-add-a-shortcut)
+- [5. Use VS Code](docs/connecting-with-ssh.md#5-use-vs-code)
+- [6. Copy files](docs/connecting-with-ssh.md#6-copy-files)
+- [7. Keep work running after you disconnect](docs/connecting-with-ssh.md#7-keep-work-running-after-you-disconnect)
+
+</details>
 
 <details>
 <summary><a href="docs/connecting-with-x2go.md">Connecting to a Linux server with x2go</a></summary>
@@ -54,8 +69,7 @@ Click a page to open it, or expand it to jump to a section.
 
 - [1. Get access](docs/dragonair-and-slurm.md#1-get-access)
 - [2. Connect](docs/dragonair-and-slurm.md#2-connect)
-  - [SSH from a terminal](docs/dragonair-and-slurm.md#ssh-from-a-terminal)
-  - [VS Code](docs/dragonair-and-slurm.md#vs-code)
+  - [SSH and VS Code](docs/dragonair-and-slurm.md#ssh-and-vs-code)
   - [Remote desktop (x2go)](docs/dragonair-and-slurm.md#remote-desktop-x2go)
 - [3. The one rule](docs/dragonair-and-slurm.md#3-the-one-rule)
 - [4. Run jobs](docs/dragonair-and-slurm.md#4-run-jobs)
@@ -70,4 +84,4 @@ Click a page to open it, or expand it to jump to a section.
 
 ## Updating these pages
 
-The pages live in [`docs/`](docs/). To suggest a change, open a pull request.
+The pages live in [`docs/`](docs/). To suggest a change, open a pull request. The index above lists each page's headings, so update it when you add a page or a section.

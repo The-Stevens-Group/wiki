@@ -4,6 +4,8 @@ You're here because you have an application that only runs on Linux.
 
 No problem!
 
+If you only need a command line, you can [connect with SSH](connecting-with-ssh.md) instead, without a remote desktop.
+
 Using x2go with Linux has several advantages over Windows-based remote desktops. It's efficient, and most importantly, it lets multiple users connect at the same time, so you don't have to schedule or book a timeslot.
 
 ## 1. Request a Linux Account

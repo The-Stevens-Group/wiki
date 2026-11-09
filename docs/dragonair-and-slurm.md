@@ -16,44 +16,13 @@ Dragonair is the group's shared GPU workstation. You log in and edit freely, and
 
 ## 2. Connect
 
-Pick one. All three give you the same files and the same queue.
+Pick one. Both give you the same files and the same queue.
 
-### SSH from a terminal
+### SSH and VS Code
 
-```bash
-ssh <your-username>@dragonair.dpag.ox.ac.uk
-```
+Follow [Connecting with SSH](connecting-with-ssh.md) and use `dragonair.dpag.ox.ac.uk` as the host. Setting up a key and the `dragonair` shortcut there lets you run `ssh dragonair`, and choose `dragonair` in VS Code.
 
-On your first login, [change your password](changing-your-password.md) by running `passwd`.
-
-To avoid typing your password each time, run these on your own computer:
-
-```bash
-ssh-keygen -t ed25519        # only if you do not already have a key
-ssh-copy-id <your-username>@dragonair.dpag.ox.ac.uk
-```
-
-On Windows, use this in PowerShell instead of `ssh-copy-id`:
-
-```powershell
-type $env:USERPROFILE\.ssh\id_ed25519.pub | ssh <your-username>@dragonair.dpag.ox.ac.uk "mkdir -p ~/.ssh && cat >> ~/.ssh/authorized_keys"
-```
-
-Then add a shortcut to `~/.ssh/config` on your own computer, so that `ssh dragonair` works:
-
-```
-Host dragonair
-    HostName dragonair.dpag.ox.ac.uk
-    User <your-username>
-```
-
-### VS Code
-
-1. Set up SSH as above, including the shortcut.
-2. Install the **Remote - SSH** extension.
-3. Run `Remote-SSH: Connect to Host...` from the command palette and choose `dragonair`.
-
-The editor runs in your login session and does not use the queue. Start GPU work from the VS Code terminal as described below.
+VS Code runs in your login session and does not use the queue. Start GPU work from the VS Code terminal as described below.
 
 ### Remote desktop (x2go)
 
