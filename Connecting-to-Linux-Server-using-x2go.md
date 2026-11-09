@@ -33,7 +33,7 @@ Full instruction can be found [here](https://www.medsci.ox.ac.uk/for-staff/resou
 
 * Enter the following information:
   * **Session name**: Choose any recognizable name (e.g., `Server`).
-  * **Host**: Enter the server hostname or IP address (e.g., `bathspa.dpag.ox.ac.uk` You can see the list of machines available by going [here](https://github.com/The-Stevens-Group/wiki/wiki/Hardware-Resources)).
+  * **Host**: Enter the server hostname or IP address (e.g., `bathspa.dpag.ox.ac.uk` You can see the list of machines available by going [here](Hardware-Resources.md)).
   * **Login**: Your Linux account username provided by the Stevens Group admin, which should be the same as your MSD account name.
   * **Password**: The password that you received in your Linux account email.
   * **SSH Port**: Set as `22`.
