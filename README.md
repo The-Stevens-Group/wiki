@@ -9,5 +9,6 @@ Please read these pages, before using our systems to find out about:
 3. [Connecting to Stevens Group File Server](Connecting-to-Stevens-Group-File-Server.md)
 4. [Hardware resources available](Hardware-Resources.md)
 5. [Software available](Software-available.md)
+6. [Using Dragonair and Slurm (SSH, VS Code, submitting GPU jobs)](Using-Dragonair-and-Slurm.md)
 
 To suggest a change to these pages, open a pull request.

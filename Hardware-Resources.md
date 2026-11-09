@@ -10,4 +10,4 @@ The following hardware is available across our servers:
 | charmander.dpag.ox.ac.uk (require booking) | AMD Ryzen Threadripper 7970X @ 4.0GHz, 256GB DDR5, 4TB M.2, RTX5090  | Ubuntu 24.04 / Windows 11 |  lin-mms005, Desk 22, DHCB| 2025|
 | bulbasaur.dpag.ox.ac.uk (require booking) | AMD Ryzen Ryzen 9 9950X @ 4.3GHz, 128GB DDR5, 4TB M.2, RTX5080  | Windows 11 |  win-mms087, Desk 23, DHCB| 2025|
 | squirtle.dpag.ox.ac.uk (require booking to use Windows) | AMD Ryzen Ryzen 9 9950X @ 4.3GHz, 128GB DDR5, 4TB M.2, RTX5080  | Ubuntu 24.04 / Windows 11 |  win-mms087, Desk 25 & 28, DHCB| 2025|
-| dragonair.dpag.ox.ac.uk | AMD Ryzen Threadripper PRO 7975WX @ 5.3GHz, 512GB DDR5, 4TB M.2 RAID1, 24TB HDD RAID 1, RTX Pro 6000 × 2 | Ubuntu 24.04  |  lin-mms009, Desk 26, DHCB| 2026|
+| dragonair.dpag.ox.ac.uk ([jobs run through Slurm](Using-Dragonair-and-Slurm.md)) | AMD Ryzen Threadripper PRO 7975WX @ 5.3GHz, 512GB DDR5, 4TB M.2 RAID1, 24TB HDD RAID 1, RTX Pro 6000 × 2 | Ubuntu 24.04  |  lin-mms009, Desk 26, DHCB| 2026|
